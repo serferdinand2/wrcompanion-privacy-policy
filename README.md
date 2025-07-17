@@ -75,12 +75,6 @@ This Privacy Policy is designed to comply with:
 - California Consumer Privacy Act (CCPA)
 - Other applicable privacy laws
 
-## Contact Us
-
-If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
-
-**Email:** ognjen@gmail.com
-
 ## Future Updates
 
 If we decide to collect user data in future versions of the App (such as for user accounts, analytics, or advertising), we will:
